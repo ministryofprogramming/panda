@@ -1,0 +1,1 @@
+DROP TABLE `days_off`;
